@@ -1,7 +1,7 @@
 {
   "name": "backend-validation-express",
   "version": "1.0.0",
-  "description": "request data validation in backend",
+  "description": "Request data validation middleware using Joi for express in backend",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -16,9 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/.git"
+    "url": "git+https://github.com/MuhammadRifat/backend-validation-express.git"
   },
-  "homepage": "https://github.com/#readme",
+  "keywords": [
+    "backend",
+    "validation",
+    "joi",
+    "express",
+    "middleware",
+    "backend-validation-express",
+    "request-data-validation"
+  ],
+  "homepage": "https://github.com/MuhammadRifat/backend-validation-express#readme",
   "author": "Rifat",
   "license": "ISC",
   "dependencies": {
