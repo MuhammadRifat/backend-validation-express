@@ -7,4 +7,4 @@ interface IValidationSchema {
     headers?: Joi.AnySchema<any>;
 }
 declare const validator: (validationSchema: IValidationSchema) => (req: Request, res: Response, next: NextFunction) => Response<any, Record<string, any>> | undefined;
-export { validator, Joi };
+export default { validator, Joi };
