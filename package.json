@@ -1,6 +1,6 @@
 {
   "name": "backend-validation-express",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Request data validation middleware using Joi for express in backend",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
