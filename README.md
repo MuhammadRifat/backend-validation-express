@@ -36,7 +36,7 @@ module.exports = {
 
 ```
 
-### index.js
+##### index.js
 ```js
 const express = require("express");
 const { paramsValidator, queryValidator, bodyValidator } = require("./validation");
