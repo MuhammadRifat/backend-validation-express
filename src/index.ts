@@ -67,4 +67,4 @@ const validator = (validationSchema: IValidationSchema) => {
   };
 };
 
-export {validator, Joi};
+export { validator, Joi };
