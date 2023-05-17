@@ -1,7 +1,6 @@
 # backend-validation-express
 
-##### Request data validation middleware using Joi for express in backend. This middleware allows you to validate req.body, req.query, req.params, req.headers. Also return the error message to the better format.
-##### Request data validation middleware using Joi for express in backend. This middleware allows you to validate req.body, req.query, req.params, req.headers. Also return the error message to the better format.
+##### Request data validation middleware using Joi for express in backend. This middleware allows you to validate req.body, req.query, req.params, req.headers. Also return the error messages to the better format.
 
 ## Installation
 `npm install backend-validation-express`
